@@ -1,1 +1,3 @@
 # Sorghum-work
+Project Title: Data-driven breeding approaches for sorghum (Sorghum bicolor L) and common beans (Phaseolus vulgaris) intercropping for yield enhancement in East Africa
+Objectives include: 1)Conduct a comprehensive phenotypic analysis of sorghum and bean landraces to identify and characterize key agronomic and/or adaptive traits for yield enhancement under both monocrop and intercrop system. 2)ii.	Conduct a genetic characterization of sorghum and beans landrace accessions to identify genetic markers variation associated with agronomic/adaptive and farmers preferred traits within intercropping systems & 3)Identify genotypes of sorghum and beans that perform optimally under intercrop system
